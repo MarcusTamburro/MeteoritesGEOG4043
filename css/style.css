@@ -1,0 +1,48 @@
+.dropdown {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    z-index: 100;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #999;
+    box-shadow: 2px 2px 4px #999;
+}
+
+.dropdown2 {
+    position: absolute;
+    top: 30px;
+    right: 240px;
+    z-index: 101;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #999;
+    box-shadow: 2px 2px 4px #999;
+}
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+.legend-contents{
+    width: 350px;
+    height: 193px;
+    font-weight: bold;
+    background-color: rgba(255,255,255,0.8);
+    padding: 0px;
+    text-align: left;
+}
+
+.credits-contents{
+    width: 210px;
+    height: 157px;
+    font-weight: bold;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    text-align: left;
+    border: solid gray 1px;
+}
